@@ -1,6 +1,7 @@
-Name:		Yongheng Li
-B-Number:	 
-Email:		yli241@binghamton.edu
+The aims of this project are as follows:
 
-Add text here as needed.
+To introduce you to asynchronous JavaScript programming, albeit in a cookbook manner.
 
+To give you some familiarity with using a nosql database.
+
+To make you comfortable using nodejs packages and module system.
