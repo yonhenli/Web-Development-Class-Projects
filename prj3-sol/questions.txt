@@ -1,0 +1,14 @@
+1.
+cannot view the demo page
+
+2.
+how can i see the status code
+
+3.
+do we need to send status back if it is successful
+
+4.
+how do i know which function it goes to
+
+5.
+status: string or numeric values
